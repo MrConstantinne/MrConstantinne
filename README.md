@@ -1,0 +1,306 @@
+<h1 align="center"> 
+    Node.js Developer
+</h1>
+
+<p align="center"> 
+    <img 
+        src="https://komarev.com/ghpvc/?username=mrconstantinne&label=Profile%20views&color=0e75b6&style=flat" 
+        alt="mrconstantinne" 
+    /> 
+</p>
+
+<br>
+
+<h4 align="left">Пройдено обучение и получены сертификаты по следующим технологиям:</h4>
+
+<br>
+
+<h3>Backend</h3>
+
+<p>
+    <a 
+        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
+        target="_blank"
+    > 
+        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" 
+            alt="javascript" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="https://www.typescriptlang.org/" 
+        target="_blank"
+    > 
+        <img 
+            src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" 
+            alt="typescript" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="https://nodejs.org" 
+        target="_blank"
+    > 
+        <img 
+            src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" 
+            alt="nodejs" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="https://expressjs.com" 
+        target="_blank"
+    > 
+        <img 
+        src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" 
+        alt="express" 
+        width="50" 
+        height="50"
+        /> 
+    </a> 
+    <a 
+        href="https://www.mongodb.com/" 
+        target="_blank"
+    > 
+        <img 
+            src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" 
+            alt="mongodb" 
+            width="50" 
+            height="50"
+        /> 
+    </a>  
+    <a 
+        href="https://www.postgresql.org" 
+        target="_blank"
+    > 
+        <img 
+            src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" 
+            alt="postgresql" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="https://redis.io" 
+        target="_blank"
+    > 
+        <img 
+            src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" 
+            alt="redis" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="https://graphql.org" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" 
+            alt="graphql" 
+            width="50" 
+            height="50"
+        /> 
+    </a> 
+    <a 
+        href="https://www.docker.com/" 
+        target="_blank"
+    > 
+        <img 
+            src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" 
+            alt="docker" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="https://git-scm.com/" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+            alt="git" 
+            width="50" 
+            height="50"
+        /> 
+    </a> 
+</p>
+<hr />
+
+<h3>Frontend</h3>
+
+<p>
+    <a 
+        href="https://www.w3.org/html/" 
+        target="_blank"
+    > 
+        <img 
+            src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" 
+            alt="html5" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="https://www.w3schools.com/css/" 
+        target="_blank"
+    > 
+        <img 
+            src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" 
+            alt="css3" 
+            width="50" 
+            height="50"
+        /> 
+    </a>  
+    <a 
+        href="https://sass-lang.com" 
+        target="_blank"
+    > 
+        <img 
+            src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" 
+            alt="sass" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="https://reactjs.org/" 
+        target="_blank"
+    > 
+        <img 
+            src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" 
+            alt="react" 
+            width="50" 
+            height="50"
+        /> 
+    </a> 
+</p>
+<hr/>
+
+<h3>Использую программы для работы</h3>
+<p>
+    <a 
+        href="https://postman.com" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+            alt="postman" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="https://www.figma.com/" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
+            alt="figma" 
+            width="50" 
+            height="50"
+        /> 
+    </a> 
+    <a 
+        href="https://www.sketch.com/" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" 
+            alt="sketch" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+</p>
+
+<hr /> <br>
+
+<p>
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=mrconstantinne&show_icons=true&locale=en" 
+        alt="mrconstantinne" 
+    />
+</p>
+<p>
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mrconstantinne&show_icons=true&locale=en&layout=compact" 
+        alt="mrconstantinne" 
+    />
+</p>
+
+<hr>
+<h3>
+    Контакты
+</h3>
+<p align="left">&nbsp;
+    <a 
+        href="https://t.me/MrConstantinne" 
+        target="_blank"
+    > 
+        <img 
+            src="https://icon-icons.com/icons2/923/PNG/64/telegram_icon-icons.com_72055.png" 
+            alt="Telegram" 
+            width="40" 
+            height="40"
+        />
+    </a>
+    <a 
+        href="https://join.skype.com/invite/vmFAdwe03cXJ" 
+        target="_blank"
+    > 
+        <img 
+            src="https://zbi-bck.ru/wp-content/uploads/2020/07/icone-skype.png" 
+            alt="Skype" 
+            width="40" 
+            height="40"
+        />
+    </a>
+    <a 
+        href="https://viber.click/79991949229" 
+        target="_blank"
+    > 
+        <img 
+            src="https://img.utdstc.com/icons/viber-mac.png:150" 
+            alt="Viber" 
+            width="40" 
+            height="40"
+        />
+    </a>
+    <a 
+        href="https://linkedin.com/in/mrconstantinne" 
+        target="blank"
+    >
+        <img
+            src="https://d14qoa1pga5ytj.cloudfront.net/wp-content/uploads/2019/10/17130937/linkedin.png" 
+            alt="IN" 
+            height="40" 
+            width="40" 
+        />
+    </a>
+    <a 
+        href="https://fb.com/mrconstantinne" 
+        target="blank"
+    >
+        <img
+            src="https://i.pinimg.com/originals/1a/72/d4/1a72d48d6090f689bd3bc8d59e088516.png" 
+            alt="FB" 
+            height="40" 
+            width="40" 
+        />
+    </a>
+    <a 
+        href="https://vk.com/maksimovichks" 
+        target="blank"
+    >
+        <img
+            src="https://freesoft.ru/storage/images/202/2014/201356/201356_normal.png" 
+            alt="VK" 
+            height="40" 
+            width="40" 
+        />
+    </a>    
+</p>
