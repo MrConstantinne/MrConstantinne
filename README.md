@@ -56,7 +56,7 @@
         target="_blank"
     > 
         <img 
-            src="https://mc.qcloudimg.com/static/img/a1a484e44e3f18377372ff7ed1820e65/PostgreSQL.png" 
+            src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" 
             alt="postgresql" 
             width="60" 
             height="55"
