@@ -58,8 +58,8 @@
         <img 
             src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" 
             alt="postgresql" 
-            width="60" 
-            height="55"
+            width="50" 
+            height="50"
         /> 
     </a>
     <a 
