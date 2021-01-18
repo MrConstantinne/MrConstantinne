@@ -19,35 +19,14 @@
 
 <p>
     <a 
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" 
-        target="_blank"
-    > 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" 
-            alt="javascript" 
-            width="50" 
-            height="50"
-        /> 
-    </a>
-    <a 
-        href="https://www.typescriptlang.org/" 
-        target="_blank"
-    > 
-        <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" 
-            alt="typescript" 
-            width="50" 
-            height="50"
-        /> 
-    </a>
-    <a 
         href="https://nodejs.org" 
         target="_blank"
     > 
         <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" 
+            src="https://itretina.com/assets/nodejs.svg" 
             alt="nodejs" 
             width="50" 
-            height="50"
+            height=50"
         /> 
     </a>
     <a 
@@ -55,7 +34,7 @@
         target="_blank"
     > 
         <img 
-        src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" 
+        src="https://camo.githubusercontent.com/e88eb511d42cbb65ccd3f87217f927f65d247bd5/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030302f3335392f66756c6c2f657870726573736a736c6f676f2e706e67" 
         alt="express" 
         width="50" 
         height="50"
@@ -66,7 +45,7 @@
         target="_blank"
     > 
         <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" 
+            src="https://1.bp.blogspot.com/-htWkBbnckhw/XevqrurwiQI/AAAAAAAAAwc/mhXK7Z4cV2w-7kUztYaXdCxo1T3CyEPcQCLcBGAsYHQ/s1600/mongo.png" 
             alt="mongodb" 
             width="50" 
             height="50"
@@ -77,10 +56,10 @@
         target="_blank"
     > 
         <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" 
+            src="https://mc.qcloudimg.com/static/img/a1a484e44e3f18377372ff7ed1820e65/PostgreSQL.png" 
             alt="postgresql" 
-            width="50" 
-            height="50"
+            width="60" 
+            height="55"
         /> 
     </a>
     <a 
@@ -88,7 +67,7 @@
         target="_blank"
     > 
         <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" 
+            src="https://techtonicinfosystems.com/wp-content/uploads/2020/04/Redis-1.png" 
             alt="redis" 
             width="50" 
             height="50"
@@ -110,7 +89,7 @@
         target="_blank"
     > 
         <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" 
+            src="https://cdn.iconscout.com/icon/free/png-512/social-275-116309.png" 
             alt="docker" 
             width="50" 
             height="50"
@@ -138,7 +117,7 @@
         target="_blank"
     > 
         <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" 
+            src="https://pawelch.ru/wp-content/uploads/2019/10/logo-2582748_1280.png" 
             alt="html5" 
             width="50" 
             height="50"
@@ -149,7 +128,7 @@
         target="_blank"
     > 
         <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" 
+            src="https://1.bp.blogspot.com/-Nhj6dXCgxdk/XjfO7N1DfLI/AAAAAAAAAJc/Cbjs0U83CjcDHyBuWsP5psxiriaxqnU7QCNcBGAsYHQ/s1600/logo-2582747_1920.png" 
             alt="css3" 
             width="50" 
             height="50"
@@ -160,7 +139,7 @@
         target="_blank"
     > 
         <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" 
+            src="http://ui-lab.co.kr/wp-content/uploads/2016/12/marinamilette_sass.png" 
             alt="sass" 
             width="50" 
             height="50"
@@ -171,9 +150,9 @@
         target="_blank"
     > 
         <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" 
+            src="https://avatars.mds.yandex.net/get-zen_doc/1221393/pub_5b9bc7e64f203f00ad28748f_5b9bc8f6f7df7900accd614e/scale_1200" 
             alt="react" 
-            width="50" 
+            width="70" 
             height="50"
         /> 
     </a> 
@@ -220,14 +199,14 @@
 <hr /> <br>
 
 <p>
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=mrconstantinne&show_icons=true&locale=en" 
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=mrconstantinne&show_icons=true&locale=ru" 
         alt="mrconstantinne" 
     />
 </p>
 <p>
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mrconstantinne&show_icons=true&locale=en&layout=compact" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mrconstantinne&show_icons=true&locale=en" 
         alt="mrconstantinne" 
     />
 </p>
@@ -264,7 +243,7 @@
         target="_blank"
     > 
         <img 
-            src="https://img.utdstc.com/icons/viber-mac.png:150" 
+            src="https://bagger.su/sites/default/files/viber.png" 
             alt="Viber" 
             width="40" 
             height="40"
@@ -275,7 +254,7 @@
         target="blank"
     >
         <img
-            src="https://d14qoa1pga5ytj.cloudfront.net/wp-content/uploads/2019/10/17130937/linkedin.png" 
+            src="https://clipart-best.com/img/linkedIn/linkedIn-clip-art-13.png" 
             alt="IN" 
             height="40" 
             width="40" 
