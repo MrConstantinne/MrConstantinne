@@ -1,12 +1,19 @@
-<h1 align="center"> 
-    Node.js Developer
-</h1>
-
-<p align="center"> 
+<p align="right"> 
     <img 
         src="https://komarev.com/ghpvc/?username=mrconstantinne&label=Profile%20views&color=0e75b6&style=flat" 
         alt="mrconstantinne" 
     /> 
+</p>
+
+<h1 align="center"> 
+    Node.js Developer
+</h1>
+
+<p align="center">
+    <img 
+        src="https://www.codewars.com/users/MrConstantinne/badges/large"
+        alt="Codewars"
+    />
 </p>
 
 <br>
