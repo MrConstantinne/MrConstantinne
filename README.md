@@ -1,228 +1,4 @@
-<p align="right"> 
-    <img 
-        src="https://komarev.com/ghpvc/?username=mrconstantinne&label=Profile%20views&color=0e75b6&style=flat" 
-        alt="mrconstantinne" 
-    /> 
-</p>
-
-<h1 align="center"> 
-    Node.js Developer
-</h1>
-
-<p align="center">
-    <img 
-        src="https://www.codewars.com/users/MrConstantinne/badges/large"
-        alt="Codewars"
-    />
-</p>
-
-<br>
-
-<h4 align="left">Стек технологий:</h4>
-
-<br>
-
-<h3>Backend</h3>
-
 <p>
-    <a 
-        href="https://nodejs.org" 
-        target="_blank"
-    > 
-        <img 
-            src="https://itretina.com/assets/nodejs.svg" 
-            alt="nodejs" 
-            width="50" 
-            height=50"
-        /> 
-    </a>
-    <a 
-        href="https://expressjs.com" 
-        target="_blank"
-    > 
-        <img 
-        src="https://camo.githubusercontent.com/e88eb511d42cbb65ccd3f87217f927f65d247bd5/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030302f3335392f66756c6c2f657870726573736a736c6f676f2e706e67" 
-        alt="express" 
-        width="50" 
-        height="50"
-        /> 
-    </a> 
-    <a 
-        href="https://www.mongodb.com/" 
-        target="_blank"
-    > 
-        <img 
-            src="https://1.bp.blogspot.com/-htWkBbnckhw/XevqrurwiQI/AAAAAAAAAwc/mhXK7Z4cV2w-7kUztYaXdCxo1T3CyEPcQCLcBGAsYHQ/s1600/mongo.png" 
-            alt="mongodb" 
-            width="50" 
-            height="50"
-        /> 
-    </a>  
-    <a 
-        href="https://www.postgresql.org" 
-        target="_blank"
-    > 
-        <img 
-            src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" 
-            alt="postgresql" 
-            width="50" 
-            height="50"
-        /> 
-    </a>
-    <a 
-        href="https://redis.io" 
-        target="_blank"
-    > 
-        <img 
-            src="https://techtonicinfosystems.com/wp-content/uploads/2020/04/Redis-1.png" 
-            alt="redis" 
-            width="50" 
-            height="50"
-        /> 
-    </a>
-    <a 
-        href="https://graphql.org" 
-        target="_blank"
-    > 
-        <img 
-            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" 
-            alt="graphql" 
-            width="50" 
-            height="50"
-        /> 
-    </a> 
-    <a 
-        href="https://www.docker.com/" 
-        target="_blank"
-    > 
-        <img 
-            src="https://cdn.iconscout.com/icon/free/png-512/social-275-116309.png" 
-            alt="docker" 
-            width="50" 
-            height="50"
-        /> 
-    </a>
-    <a 
-        href="https://git-scm.com/" 
-        target="_blank"
-    > 
-        <img 
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-            alt="git" 
-            width="50" 
-            height="50"
-        /> 
-    </a> 
-</p>
-<hr />
-
-<h3>Frontend</h3>
-
-<p>
-    <a 
-        href="https://www.w3.org/html/" 
-        target="_blank"
-    > 
-        <img 
-            src="https://pawelch.ru/wp-content/uploads/2019/10/logo-2582748_1280.png" 
-            alt="html5" 
-            width="50" 
-            height="50"
-        /> 
-    </a>
-    <a 
-        href="https://www.w3schools.com/css/" 
-        target="_blank"
-    > 
-        <img 
-            src="https://1.bp.blogspot.com/-Nhj6dXCgxdk/XjfO7N1DfLI/AAAAAAAAAJc/Cbjs0U83CjcDHyBuWsP5psxiriaxqnU7QCNcBGAsYHQ/s1600/logo-2582747_1920.png" 
-            alt="css3" 
-            width="50" 
-            height="50"
-        /> 
-    </a>  
-    <a 
-        href="https://sass-lang.com" 
-        target="_blank"
-    > 
-        <img 
-            src="http://ui-lab.co.kr/wp-content/uploads/2016/12/marinamilette_sass.png" 
-            alt="sass" 
-            width="50" 
-            height="50"
-        /> 
-    </a>
-    <a 
-        href="https://reactjs.org/" 
-        target="_blank"
-    > 
-        <img 
-            src="https://avatars.mds.yandex.net/get-zen_doc/1221393/pub_5b9bc7e64f203f00ad28748f_5b9bc8f6f7df7900accd614e/scale_1200" 
-            alt="react" 
-            width="70" 
-            height="50"
-        /> 
-    </a> 
-</p>
-<hr/>
-
-<h3>Использую программы для работы</h3>
-<p>
-    <a 
-        href="https://postman.com" 
-        target="_blank"
-    > 
-        <img 
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-            alt="postman" 
-            width="50" 
-            height="50"
-        /> 
-    </a>
-    <a 
-        href="https://www.figma.com/" 
-        target="_blank"
-    > 
-        <img 
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
-            alt="figma" 
-            width="50" 
-            height="50"
-        /> 
-    </a> 
-    <a 
-        href="https://www.sketch.com/" 
-        target="_blank"
-    > 
-        <img 
-            src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" 
-            alt="sketch" 
-            width="50" 
-            height="50"
-        /> 
-    </a>
-</p>
-
-<hr /> <br>
-
-<p>
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=mrconstantinne&show_icons=true&locale=ru" 
-        alt="mrconstantinne" 
-    />
-</p>
-<p>
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mrconstantinne&show_icons=true&locale=en" 
-        alt="mrconstantinne" 
-    />
-</p>
-
-<hr>
-<h3>
-    Контакты
-</h3>
-<p align="left">&nbsp;
     <a 
         href="https://t.me/MrConstantinne" 
         target="_blank"
@@ -288,5 +64,270 @@
             height="40" 
             width="40" 
         />
-    </a>    
+    </a>
+    <img 
+        src="https://komarev.com/ghpvc/?username=mrconstantinne&label=Profile%20views&color=0e75b6&style=flat" 
+        alt="mrconstantinne"
+        align="right"
+    />
+
+<h1 align="center">Node.js Developer</h1>
+<p align="center">
+    <img 
+        src="https://www.codewars.com/users/MrConstantinne/badges/large"
+        alt="Codewars"
+    />
 </p>
+
+<br>
+<br>
+<h3>Frameworks:</h3>
+<p>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://hsto.org/getpro/habr/post_images/d11/98b/ac8/d1198bac8e4ced0d89d5e5983061f418.png" 
+            alt="nestjs" 
+            width="50" 
+            height=50"
+        /> 
+    </a>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+        src="https://camo.githubusercontent.com/e88eb511d42cbb65ccd3f87217f927f65d247bd5/68747470733a2f2f6432656970397366336f6f3663322e636c6f756466726f6e742e6e65742f746167732f696d616765732f3030302f3030302f3335392f66756c6c2f657870726573736a736c6f676f2e706e67" 
+        alt="express" 
+        width="50" 
+        height="50"
+        /> 
+    </a>
+</p>
+<hr>
+<h3>Databases & ORM/ODM:</h3>
+<p>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://1.bp.blogspot.com/-htWkBbnckhw/XevqrurwiQI/AAAAAAAAAwc/mhXK7Z4cV2w-7kUztYaXdCxo1T3CyEPcQCLcBGAsYHQ/s1600/mongo.png" 
+            alt="mongodb" 
+            width="50" 
+            height="50"
+        /> 
+    </a>  
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" 
+            alt="postgresql" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://techtonicinfosystems.com/wp-content/uploads/2020/04/Redis-1.png" 
+            alt="redis" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://cdn-images-1.medium.com/fit/t/2217/1026/1*rTbyH3zL7Ue8VyTHRMRDAA.png" 
+            alt="TypeORM" 
+            width="120" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://cdn.iconscout.com/icon/free/png-512/sequelize-2-1175003.png" 
+            alt="Sequelize" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+</p>
+<hr>
+<h3>API Documentation & Design tools:</h3>
+<p>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://miro.medium.com/max/1085/1*tQZ52qOXqiVllOcieDBMmA.png" 
+            alt="Swagger" 
+            width="80" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://raw.githubusercontent.com/Rebilly/ReDoc/master/docs/images/redoc-logo.png" 
+            alt="ReDoc" 
+            width="70" 
+            height="50"
+        /> 
+    </a>
+</p>
+<hr>
+<h3>E2E & Unit testing:</h3>
+<p>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.benmalin.com/images/jest.svg" 
+            alt="Jest" 
+            width="90" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://validas.de/TQS/2014/exhibitors/SuperTest-logo-L.png" 
+            alt="Supertest" 
+            width="80" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+            alt="postman" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+</p>
+<hr>
+<h3>API Implementation: </h3>
+<p>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" 
+            alt="graphql" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://gonomorepaper.com/wp-content/uploads/2020/11/api_rest.png" 
+            alt="REST" 
+            width="80" 
+            height="50"
+        /> 
+    </a>
+</p>
+<hr>
+<h3>Automate deployment:</h3>
+<p>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://cdn.iconscout.com/icon/free/png-512/social-275-116309.png" 
+            alt="docker" 
+            width="70" 
+            height="70"
+        /> 
+    </a>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.ayhanarda.com/blog/wp-content/uploads/2016/03/Compose.png" 
+            alt="docker-compose" 
+            width="70" 
+            height="70"
+        /> 
+    </a>
+</p>
+<hr>
+<h3>Version control system and repository management:</h3>
+<p>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+            alt="git" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://sergeydobrinyn.github.io/img/github-octocat.svg" 
+            alt="GitHub" 
+            width="50" 
+            height="50"
+        /> 
+    </a> 
+    <a 
+        href="#" 
+        target="_blank"
+    > 
+        <img 
+            src="https://redhatnordicssa.github.io/assets/images/gitlab-logo.png" 
+            alt="GitLab" 
+            width="50" 
+            height="50"
+        /> 
+    </a>
+</p>
+<hr/>
+<p>
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=mrconstantinne&show_icons=true&locale=ru" 
+        alt="mrconstantinne"
+    />
+</p>
+<p>
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mrconstantinne&show_icons=true&locale=en" 
+        alt="mrconstantinne" 
+    />
+</p>
+
